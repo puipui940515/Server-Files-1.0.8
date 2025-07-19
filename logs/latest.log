@@ -1,0 +1,1052 @@
+[207月2025 00:00:07.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3849ms or 76 ticks behind
+[207月2025 00:00:24.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[207月2025 00:00:42.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3274ms or 65 ticks behind
+[207月2025 00:01:01.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3763ms or 75 ticks behind
+[207月2025 00:01:19.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2422ms or 48 ticks behind
+[207月2025 00:01:37.482] [Worker-Main-36/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/25831, l='ServerLevel[world]', x=366.00, y=31.00, z=267.00] as it would cause deadlock
+[207月2025 00:01:37.484] [Worker-Main-36/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/25833, l='ServerLevel[world]', x=359.00, y=31.00, z=266.00] as it would cause deadlock
+[207月2025 00:01:39.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5625ms or 112 ticks behind
+[207月2025 00:01:57.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2423ms or 48 ticks behind
+[207月2025 00:02:26.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[207月2025 00:02:51.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2861ms or 57 ticks behind
+[207月2025 00:03:11.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5212ms or 104 ticks behind
+[207月2025 00:03:18.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yanboSG moved too quickly! 47.0,-43.900000000000006,18.0
+[207月2025 00:03:31.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5200ms or 104 ticks behind
+[207月2025 00:03:53.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[207月2025 00:04:16.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[207月2025 00:04:33.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2584ms or 51 ticks behind
+[207月2025 00:04:52.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3436ms or 68 ticks behind
+[207月2025 00:04:57.636] [Worker-Main-24/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/28097, l='ServerLevel[world]', x=318.00, y=31.00, z=357.00] as it would cause deadlock
+[207月2025 00:05:01.731] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:bastion_remnant took 11 ms
+[207月2025 00:05:07.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [yanboSG: Teleported yanboSG to 64.500000, 90.000000, 528.500000]
+[207月2025 00:05:07.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shenling1124 moved too quickly! -7.638408485128991,-0.024424088213681472,-6.63185535205713
+[207月2025 00:05:11.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4657ms or 93 ticks behind
+[207月2025 00:05:31.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4473ms or 89 ticks behind
+[207月2025 00:05:50.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3851ms or 77 ticks behind
+[207月2025 00:05:53.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made yanboSG a server operator
+[207月2025 00:05:53.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yanboSG has completed the challenge [Hot Tourist Destinations]
+[207月2025 00:05:59.094] [Worker-Main-24/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/28643, l='ServerLevel[world]', x=-86.00, y=31.00, z=469.00] as it would cause deadlock
+[207月2025 00:06:04.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[207月2025 00:06:05.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yanboSG moved too quickly! 438.19999998807907,-4.900000000000006,-66.19999998807907
+[207月2025 00:06:08.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3686ms or 73 ticks behind
+[207月2025 00:06:09.195] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:bastion_remnant took 0 ms
+[207月2025 00:06:26.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2436ms or 48 ticks behind
+[207月2025 00:06:28.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[207月2025 00:06:38.291] [Worker-Main-35/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/29067, l='ServerLevel[world]', x=756.00, y=31.00, z=133.00] as it would cause deadlock
+[207月2025 00:06:41.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[207月2025 00:06:43.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[207月2025 00:06:48.677] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:bastion_remnant took 0 ms
+[207月2025 00:06:59.507] [Worker-Main-28/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/29371, l='ServerLevel[world]', x=859.00, y=31.00, z=8.00] as it would cause deadlock
+[207月2025 00:07:00.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[207月2025 00:07:17.762] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:bastion_remnant took 0 ms
+[207月2025 00:07:18.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[207月2025 00:07:19.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3993ms or 79 ticks behind
+[207月2025 00:07:28.268] [Worker-Main-36/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/29636, l='ServerLevel[world]', x=947.00, y=31.00, z=-84.00] as it would cause deadlock
+[207月2025 00:07:37.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2552ms or 51 ticks behind
+[207月2025 00:08:02.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[207月2025 00:08:21.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3754ms or 75 ticks behind
+[207月2025 00:08:23.450] [Worker-Main-28/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/29976, l='ServerLevel[world]', x=777.00, y=31.00, z=391.00] as it would cause deadlock
+[207月2025 00:08:41.556] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5264ms or 105 ticks behind
+[207月2025 00:09:04.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7771ms or 155 ticks behind
+[207月2025 00:09:19.709] [Worker-Main-26/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/30397, l='ServerLevel[world]', x=1212.00, y=31.00, z=404.00] as it would cause deadlock
+[207月2025 00:09:28.247] [Worker-Main-26/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/30476, l='ServerLevel[world]', x=1286.00, y=31.00, z=171.00] as it would cause deadlock
+[207月2025 00:09:40.799] [Worker-Main-24/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/30637, l='ServerLevel[world]', x=1353.00, y=31.00, z=213.00] as it would cause deadlock
+[207月2025 00:09:41.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[207月2025 00:09:58.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2764ms or 55 ticks behind
+[207月2025 00:10:27.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[207月2025 00:10:47.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4852ms or 97 ticks behind
+[207月2025 00:11:18.143] [Worker-Main-27/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/31397, l='ServerLevel[world]', x=2030.00, y=31.00, z=533.00] as it would cause deadlock
+[207月2025 00:11:25.655] [Worker-Main-28/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/31486, l='ServerLevel[world]', x=2170.00, y=31.00, z=400.90] as it would cause deadlock
+[207月2025 00:11:41.774] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:bastion_remnant took 0 ms
+[207月2025 00:11:41.898] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player puipui940515 is e7c96602-110a-49ea-b405-6cfacfa851d5
+[207月2025 00:11:45.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [yanboSG: Teleported yanboSG to 1696.500000, 92.000000, 384.500000]
+[207月2025 00:11:46.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[207月2025 00:11:48.093] [Worker-Main-27/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/31844, l='ServerLevel[world]', x=1674.00, y=31.00, z=538.00] as it would cause deadlock
+[207月2025 00:11:48.094] [Worker-Main-27/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/31846, l='ServerLevel[world]', x=1675.00, y=31.00, z=541.00] as it would cause deadlock
+[207月2025 00:11:57.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: puipui940515[/192.168.0.24:58014] logged in with entity id 32021 at (403.31419886457684, 74.0, 276.8952909402802)
+[207月2025 00:11:57.889] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to puipui940515
+[207月2025 00:11:57.890] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to puipui940515
+[207月2025 00:11:57.891] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to puipui940515
+[207月2025 00:11:57.893] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to puipui940515
+[207月2025 00:11:57.896] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to puipui940515
+[207月2025 00:11:57.899] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to puipui940515
+[207月2025 00:11:57.899] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to puipui940515
+[207月2025 00:11:58.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: puipui940515 joined the game
+[207月2025 00:11:59.295] [Server thread/INFO] [Jade/]: Syncing config to puipui940515 (e7c96602-110a-49ea-b405-6cfacfa851d5)
+[207月2025 00:11:59.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shenling1124 moved too quickly! 8.307059499705531,-1.5141646537037978,-5.4709786439930745
+[207月2025 00:12:06.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5452ms or 109 ticks behind
+[207月2025 00:12:29.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7639ms or 152 ticks behind
+[207月2025 00:12:33.541] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:bastion_remnant took 114 ms
+[207月2025 00:12:38.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [yanboSG: Teleported yanboSG to 2688.500000, 48.000000, 352.500000]
+[207月2025 00:12:52.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8178ms or 163 ticks behind
+[207月2025 00:12:56.097] [Worker-Main-28/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/32703, l='ServerLevel[world]', x=2753.00, y=31.00, z=371.00] as it would cause deadlock
+[207月2025 00:12:58.943] [Worker-Main-28/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/32754, l='ServerLevel[world]', x=2709.00, y=31.00, z=420.00] as it would cause deadlock
+[207月2025 00:13:16.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9049ms or 180 ticks behind
+[207月2025 00:13:42.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 has made the advancement [Captured!]
+[207月2025 00:13:43.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12390ms or 247 ticks behind
+[207月2025 00:13:58.209] [Worker-Main-29/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/33033, l='ServerLevel[world]', x=2827.00, y=31.00, z=343.00] as it would cause deadlock
+[207月2025 00:14:16.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17062ms or 341 ticks behind
+[207月2025 00:14:19.636] [Worker-Main-26/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/33109, l='ServerLevel[world]', x=2558.00, y=31.00, z=409.00] as it would cause deadlock
+[207月2025 00:14:22.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shenling1124 moved too quickly! 4.325390014127265,2.1661092609382138,-8.791476763009564
+[207月2025 00:14:32.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 has made the advancement [How'd You Get This?]
+[207月2025 00:14:41.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10512ms or 210 ticks behind
+[207月2025 00:15:00.815] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:bastion_remnant took 30 ms
+[207月2025 00:15:05.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9127ms or 182 ticks behind
+[207月2025 00:15:28.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8315ms or 166 ticks behind
+[207月2025 00:15:33.781] [Worker-Main-26/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/33660, l='ServerLevel[world]', x=3382.00, y=31.00, z=574.00] as it would cause deadlock
+[207月2025 00:15:55.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11270ms or 225 ticks behind
+[207月2025 00:16:08.306] [Worker-Main-36/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/33846, l='ServerLevel[world]', x=3520.90, y=99.00, z=514.00] as it would cause deadlock
+[207月2025 00:16:17.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7085ms or 141 ticks behind
+[207月2025 00:16:20.705] [Worker-Main-27/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/33948, l='ServerLevel[world]', x=3555.00, y=31.00, z=581.00] as it would cause deadlock
+[207月2025 00:16:31.159] [Worker-Main-28/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/34026, l='ServerLevel[world]', x=3607.00, y=31.00, z=577.00] as it would cause deadlock
+[207月2025 00:16:35.937] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:bastion_remnant took 0 ms
+[207月2025 00:16:39.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7796ms or 155 ticks behind
+[207月2025 00:16:40.715] [Worker-Main-35/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/34090, l='ServerLevel[world]', x=3632.90, y=31.00, z=640.90] as it would cause deadlock
+[207月2025 00:16:44.720] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: puipui940515 lost connection: Disconnected
+[207月2025 00:16:44.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: puipui940515 left the game
+[207月2025 00:16:51.971] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:bastion_remnant took 0 ms
+[207月2025 00:16:53.367] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player puipui940515 is e7c96602-110a-49ea-b405-6cfacfa851d5
+[207月2025 00:17:08.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: puipui940515[/192.168.0.24:58541] logged in with entity id 34335 at (403.7884510208645, 76.13010981162616, 276.4818874010329)
+[207月2025 00:17:08.895] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to puipui940515
+[207月2025 00:17:08.895] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to puipui940515
+[207月2025 00:17:08.896] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to puipui940515
+[207月2025 00:17:08.898] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to puipui940515
+[207月2025 00:17:08.900] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to puipui940515
+[207月2025 00:17:08.902] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to puipui940515
+[207月2025 00:17:08.903] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to puipui940515
+[207月2025 00:17:09.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: puipui940515 joined the game
+[207月2025 00:17:09.897] [Server thread/INFO] [Jade/]: Syncing config to puipui940515 (e7c96602-110a-49ea-b405-6cfacfa851d5)
+[207月2025 00:17:10.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[207月2025 00:17:33.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8574ms or 171 ticks behind
+[207月2025 00:17:40.717] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Captain Prim the Hungry'/34556, l='ServerLevel[world]', x=537.45, y=-23.00, z=-52.55] died: Captain Prim the Hungry was slain by shenling1124
+[207月2025 00:17:41.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 has completed the challenge [He Wasn't So Strong]
+[207月2025 00:17:45.284] [Worker-Main-26/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/34662, l='ServerLevel[world]', x=3882.00, y=75.00, z=567.00] as it would cause deadlock
+[207月2025 00:17:54.317] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:bastion_remnant took 0 ms
+[207月2025 00:17:54.390] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[207月2025 00:17:54.838] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5895ms or 117 ticks behind
+[207月2025 00:17:59.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 has made the advancement [Crops of the Wild]
+[207月2025 00:18:00.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 has made the advancement [Not a Jigsaw]
+[207月2025 00:18:09.639] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[207月2025 00:18:12.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 has made the advancement [How long's this been here?]
+[207月2025 00:18:12.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 has made the advancement [Warped]
+[207月2025 00:18:17.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7894ms or 157 ticks behind
+[207月2025 00:18:18.545] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[207月2025 00:18:19.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 has made the advancement [Tools of the Trade]
+[207月2025 00:18:22.645] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:bastion_remnant took 0 ms
+[207月2025 00:18:23.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 has made the advancement [The First Explosion (of many?)]
+[207月2025 00:18:27.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [yanboSG: Teleported yanboSG to 4112.500000, 87.500000, 400.500000]
+[207月2025 00:18:29.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yanboSG moved wrongly!
+[207月2025 00:18:30.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yanboSG moved wrongly!
+[207月2025 00:18:30.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yanboSG moved wrongly!
+[207月2025 00:18:30.329] [Worker-Main-24/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/34938, l='ServerLevel[world]', x=4093.00, y=31.00, z=439.00] as it would cause deadlock
+[207月2025 00:18:30.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yanboSG moved wrongly!
+[207月2025 00:18:30.883] [Worker-Main-35/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/34949, l='ServerLevel[world]', x=4158.00, y=31.00, z=374.00] as it would cause deadlock
+[207月2025 00:18:31.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4112, y=88, z=401} BlockPos{x=4112, y=87, z=400}
+[207月2025 00:18:34.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 has made the advancement [Suit Up]
+[207月2025 00:18:35.364] [Worker-Main-27/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/34973, l='ServerLevel[world]', x=4155.00, y=31.00, z=345.00] as it would cause deadlock
+[207月2025 00:18:46.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14008ms or 280 ticks behind
+[207月2025 00:18:56.795] [Worker-Main-26/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/35263, l='ServerLevel[world]', x=4050.00, y=31.00, z=286.00] as it would cause deadlock
+[207月2025 00:19:05.408] [Worker-Main-29/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/35323, l='ServerLevel[world]', x=4174.00, y=31.00, z=259.00] as it would cause deadlock
+[207月2025 00:19:15.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13689ms or 273 ticks behind
+[207月2025 00:19:32.540] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[207月2025 00:19:44.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13979ms or 279 ticks behind
+[207月2025 00:20:05.987] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[207月2025 00:20:08.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 has made the advancement [Totally Tubular Transfer]
+[207月2025 00:20:16.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17033ms or 340 ticks behind
+[207月2025 00:20:31.124] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:bastion_remnant took 841 ms
+[207月2025 00:20:38.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [yanboSG: Teleported yanboSG to 5248.500000, 2.000000, 48.500000]
+[207月2025 00:20:40.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yanboSG moved wrongly!
+[207月2025 00:20:40.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yanboSG moved wrongly!
+[207月2025 00:20:40.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yanboSG moved wrongly!
+[207月2025 00:20:40.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yanboSG moved wrongly!
+[207月2025 00:20:41.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yanboSG moved wrongly!
+[207月2025 00:20:41.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yanboSG moved wrongly!
+[207月2025 00:20:41.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yanboSG moved wrongly!
+[207月2025 00:20:42.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yanboSG moved wrongly!
+[207月2025 00:20:49.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17847ms or 356 ticks behind
+[207月2025 00:21:16.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12007ms or 240 ticks behind
+[207月2025 00:21:16.050] [Worker-Main-26/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/36118, l='ServerLevel[world]', x=5402.00, y=31.00, z=70.00] as it would cause deadlock
+[207月2025 00:21:52.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21768ms or 435 ticks behind
+[207月2025 00:22:14.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6263ms or 125 ticks behind
+[207月2025 00:22:35.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6707ms or 134 ticks behind
+[207月2025 00:22:59.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9071ms or 181 ticks behind
+[207月2025 00:23:21.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6250ms or 125 ticks behind
+[207月2025 00:23:42.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6055ms or 121 ticks behind
+[207月2025 00:24:05.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7938ms or 158 ticks behind
+[207月2025 00:24:25.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5637ms or 112 ticks behind
+[207月2025 00:24:44.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4187ms or 83 ticks behind
+[207月2025 00:25:04.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4503ms or 90 ticks behind
+[207月2025 00:25:23.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4634ms or 92 ticks behind
+[207月2025 00:25:43.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4234ms or 84 ticks behind
+[207月2025 00:26:03.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5782ms or 115 ticks behind
+[207月2025 00:26:22.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3369ms or 67 ticks behind
+[207月2025 00:26:40.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2976ms or 59 ticks behind
+[207月2025 00:26:58.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3893ms or 77 ticks behind
+[207月2025 00:27:20.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6607ms or 132 ticks behind
+[207月2025 00:27:42.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6615ms or 132 ticks behind
+[207月2025 00:28:02.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5102ms or 102 ticks behind
+[207月2025 00:28:12.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [shenling1124: Teleported shenling1124 to puipui940515]
+[207月2025 00:28:28.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
+[207月2025 00:29:58.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[207月2025 00:30:17.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3814ms or 76 ticks behind
+[207月2025 00:30:42.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9646ms or 192 ticks behind
+[207月2025 00:31:03.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6721ms or 134 ticks behind
+[207月2025 00:32:20.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[207月2025 00:32:38.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2494ms or 49 ticks behind
+[207月2025 00:32:55.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[207月2025 00:33:12.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[207月2025 00:33:43.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2159ms or 43 ticks behind
+[207月2025 00:34:00.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[207月2025 00:34:25.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
+[207月2025 00:34:46.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: puipui940515 lost connection: Disconnected
+[207月2025 00:34:46.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: puipui940515 left the game
+[207月2025 00:34:47.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yanboSG lost connection: Disconnected
+[207月2025 00:34:47.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yanboSG left the game
+[207月2025 00:34:47.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shenling1124 lost connection: Disconnected
+[207月2025 00:34:47.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 left the game
+[207月2025 00:34:56.242] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player puipui940515 is e7c96602-110a-49ea-b405-6cfacfa851d5
+[207月2025 00:35:06.552] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player yanboSG is 19c31d8f-a1eb-495d-b23d-4c07d7ce96a5
+[207月2025 00:35:11.542] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: puipui940515[/192.168.0.24:60203] logged in with entity id 40645 at (406.9037721557432, 74.0, 279.7035846746086)
+[207月2025 00:35:11.575] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to puipui940515
+[207月2025 00:35:11.576] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to puipui940515
+[207月2025 00:35:11.576] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to puipui940515
+[207月2025 00:35:11.577] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to puipui940515
+[207月2025 00:35:11.579] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to puipui940515
+[207月2025 00:35:11.582] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to puipui940515
+[207月2025 00:35:11.582] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to puipui940515
+[207月2025 00:35:11.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: puipui940515 joined the game
+[207月2025 00:35:12.521] [Server thread/INFO] [Jade/]: Syncing config to puipui940515 (e7c96602-110a-49ea-b405-6cfacfa851d5)
+[207月2025 00:35:22.022] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yanboSG[/26.242.111.51:51249] logged in with entity id 40928 at (381.7619683690639, 69.90319998052121, 315.20286379457195)
+[207月2025 00:35:22.050] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to yanboSG
+[207月2025 00:35:22.051] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to yanboSG
+[207月2025 00:35:22.051] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to yanboSG
+[207月2025 00:35:22.052] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to yanboSG
+[207月2025 00:35:22.053] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to yanboSG
+[207月2025 00:35:22.056] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to yanboSG
+[207月2025 00:35:22.056] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to yanboSG
+[207月2025 00:35:22.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yanboSG joined the game
+[207月2025 00:35:23.177] [Server thread/INFO] [Jade/]: Syncing config to yanboSG (19c31d8f-a1eb-495d-b23d-4c07d7ce96a5)
+[207月2025 00:35:27.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[207月2025 00:41:54.695] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player shenling1124 is 8d607915-f1ec-4152-91c3-c071bbd76001
+[207月2025 00:42:10.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: shenling1124[/26.129.41.7:3589] logged in with entity id 43040 at (410.3674784566023, 74.0, 290.6331382158134)
+[207月2025 00:42:10.532] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to shenling1124
+[207月2025 00:42:10.532] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to shenling1124
+[207月2025 00:42:10.534] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to shenling1124
+[207月2025 00:42:10.534] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to shenling1124
+[207月2025 00:42:10.536] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to shenling1124
+[207月2025 00:42:10.538] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to shenling1124
+[207月2025 00:42:10.539] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to shenling1124
+[207月2025 00:42:10.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 joined the game
+[207月2025 00:42:11.660] [Server thread/INFO] [Jade/]: Syncing config to shenling1124 (8d607915-f1ec-4152-91c3-c071bbd76001)
+[207月2025 00:42:13.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[207月2025 00:42:39.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2153ms or 43 ticks behind
+[207月2025 00:43:19.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[207月2025 00:43:24.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: puipui940515 hit the ground too hard
+[207月2025 00:43:24.551] [Server thread/INFO] [tombstone/]: The player puipui940515 has successfully been saved
+[207月2025 00:43:26.728] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[207月2025 00:43:29.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [yanboSG: Teleported yanboSG to puipui940515]
+[207月2025 00:44:44.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[207月2025 00:45:01.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2690ms or 53 ticks behind
+[207月2025 00:45:23.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[207月2025 00:45:50.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yanboSG moved too quickly! 1.4534655134006584,-10.851914543653777,0.07436259228398967
+[207月2025 00:45:52.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[207月2025 00:46:14.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7024ms or 140 ticks behind
+[207月2025 00:46:38.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2173ms or 43 ticks behind
+[207月2025 00:46:57.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[207月2025 00:47:15.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2684ms or 53 ticks behind
+[207月2025 00:47:58.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[207月2025 00:48:18.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4538ms or 90 ticks behind
+[207月2025 00:48:36.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2250ms or 45 ticks behind
+[207月2025 00:48:54.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[207月2025 00:49:12.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3452ms or 69 ticks behind
+[207月2025 00:49:31.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3986ms or 79 ticks behind
+[207月2025 00:49:50.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2205ms or 44 ticks behind
+[207月2025 00:50:08.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2935ms or 58 ticks behind
+[207月2025 00:50:43.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2278ms or 45 ticks behind
+[207月2025 00:51:01.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3314ms or 66 ticks behind
+[207月2025 00:51:20.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[207月2025 00:51:39.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[207月2025 00:51:47.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 has made the advancement [The Alloy Inert to Magic]
+[207月2025 00:51:57.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3419ms or 68 ticks behind
+[207月2025 00:52:20.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[207月2025 00:52:49.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[207月2025 00:53:16.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[207月2025 00:54:54.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[207月2025 00:55:04.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 has made the advancement [A Magical Workbench]
+[207月2025 00:55:12.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3583ms or 71 ticks behind
+[207月2025 00:55:35.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[207月2025 00:55:54.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3862ms or 77 ticks behind
+[207月2025 00:56:13.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3951ms or 79 ticks behind
+[207月2025 00:56:33.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[207月2025 00:57:00.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
+[207月2025 00:57:18.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2817ms or 56 ticks behind
+[207月2025 00:57:36.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2773ms or 55 ticks behind
+[207月2025 00:58:01.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[207月2025 00:58:18.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2404ms or 48 ticks behind
+[207月2025 00:58:42.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[207月2025 01:00:01.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[207月2025 01:00:20.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4062ms or 81 ticks behind
+[207月2025 01:00:30.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 has made the advancement [Rituals]
+[207月2025 01:00:37.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
+[207月2025 01:00:55.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[207月2025 01:01:15.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2609ms or 52 ticks behind
+[207月2025 01:02:12.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[207月2025 01:04:38.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[207月2025 01:05:22.683] [Server thread/ERROR] [invtweaks/]: Failed to sort inventory
+java.lang.RuntimeException: Slot 18 not in valid range - [0,18)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at net.minecraftforge.items.ItemStackHandler.insertItem(ItemStackHandler.java:72) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at invtweaks.util.Utils.condensed(Utils.java:186) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.playerSortServer(Sorting.java:154) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.executeSort(Sorting.java:47) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.network.PacketSortInv.lambda$handle$0(PacketSortInv.java:28) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[207月2025 01:05:23.286] [Server thread/ERROR] [invtweaks/]: Failed to sort inventory
+java.lang.RuntimeException: Slot 18 not in valid range - [0,18)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at net.minecraftforge.items.ItemStackHandler.insertItem(ItemStackHandler.java:72) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at invtweaks.util.Utils.condensed(Utils.java:186) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.playerSortServer(Sorting.java:154) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.executeSort(Sorting.java:47) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.network.PacketSortInv.lambda$handle$0(PacketSortInv.java:28) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[207月2025 01:05:24.264] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:blasting in 1.569 ms. 909/909 recipes are parallelized.
+[207月2025 01:05:24.524] [Server thread/ERROR] [invtweaks/]: Failed to sort inventory
+java.lang.RuntimeException: Slot 18 not in valid range - [0,18)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at net.minecraftforge.items.ItemStackHandler.insertItem(ItemStackHandler.java:72) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at invtweaks.util.Utils.condensed(Utils.java:186) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.playerSortServer(Sorting.java:154) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.executeSort(Sorting.java:47) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.network.PacketSortInv.lambda$handle$0(PacketSortInv.java:28) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[207月2025 01:05:25.191] [Server thread/ERROR] [invtweaks/]: Failed to sort inventory
+java.lang.RuntimeException: Slot 18 not in valid range - [0,18)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at net.minecraftforge.items.ItemStackHandler.insertItem(ItemStackHandler.java:72) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at invtweaks.util.Utils.condensed(Utils.java:186) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.playerSortServer(Sorting.java:154) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.executeSort(Sorting.java:47) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.network.PacketSortInv.lambda$handle$0(PacketSortInv.java:28) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[207月2025 01:05:25.434] [Server thread/ERROR] [invtweaks/]: Failed to sort inventory
+java.lang.RuntimeException: Slot 18 not in valid range - [0,18)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at net.minecraftforge.items.ItemStackHandler.insertItem(ItemStackHandler.java:72) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at invtweaks.util.Utils.condensed(Utils.java:186) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.playerSortServer(Sorting.java:154) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.executeSort(Sorting.java:47) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.network.PacketSortInv.lambda$handle$0(PacketSortInv.java:28) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[207月2025 01:05:25.816] [Server thread/ERROR] [invtweaks/]: Failed to sort inventory
+java.lang.RuntimeException: Slot 18 not in valid range - [0,18)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at net.minecraftforge.items.ItemStackHandler.insertItem(ItemStackHandler.java:72) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at invtweaks.util.Utils.condensed(Utils.java:186) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.playerSortServer(Sorting.java:154) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.executeSort(Sorting.java:47) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.network.PacketSortInv.lambda$handle$0(PacketSortInv.java:28) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[207月2025 01:05:26.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[207月2025 01:05:26.679] [Server thread/ERROR] [invtweaks/]: Failed to sort inventory
+java.lang.RuntimeException: Slot 18 not in valid range - [0,18)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at net.minecraftforge.items.ItemStackHandler.insertItem(ItemStackHandler.java:72) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at invtweaks.util.Utils.condensed(Utils.java:186) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.playerSortServer(Sorting.java:154) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.executeSort(Sorting.java:47) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.network.PacketSortInv.lambda$handle$0(PacketSortInv.java:28) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[207月2025 01:05:26.823] [Server thread/ERROR] [invtweaks/]: Failed to sort inventory
+java.lang.RuntimeException: Slot 18 not in valid range - [0,18)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at net.minecraftforge.items.ItemStackHandler.insertItem(ItemStackHandler.java:72) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at invtweaks.util.Utils.condensed(Utils.java:186) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.playerSortServer(Sorting.java:154) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.executeSort(Sorting.java:47) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.network.PacketSortInv.lambda$handle$0(PacketSortInv.java:28) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[207月2025 01:05:37.095] [Server thread/ERROR] [invtweaks/]: Failed to sort inventory
+java.lang.RuntimeException: Slot 19 not in valid range - [0,19)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at net.minecraftforge.items.ItemStackHandler.insertItem(ItemStackHandler.java:72) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at invtweaks.util.Utils.condensed(Utils.java:186) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.playerSortServer(Sorting.java:154) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.executeSort(Sorting.java:47) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.network.PacketSortInv.lambda$handle$0(PacketSortInv.java:28) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[207月2025 01:05:37.945] [Server thread/ERROR] [invtweaks/]: Failed to sort inventory
+java.lang.RuntimeException: Slot 19 not in valid range - [0,19)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at net.minecraftforge.items.ItemStackHandler.insertItem(ItemStackHandler.java:72) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at invtweaks.util.Utils.condensed(Utils.java:186) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.playerSortServer(Sorting.java:154) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.executeSort(Sorting.java:47) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.network.PacketSortInv.lambda$handle$0(PacketSortInv.java:28) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[207月2025 01:05:38.075] [Server thread/ERROR] [invtweaks/]: Failed to sort inventory
+java.lang.RuntimeException: Slot 19 not in valid range - [0,19)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at net.minecraftforge.items.ItemStackHandler.insertItem(ItemStackHandler.java:72) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at invtweaks.util.Utils.condensed(Utils.java:186) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.playerSortServer(Sorting.java:154) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.executeSort(Sorting.java:47) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.network.PacketSortInv.lambda$handle$0(PacketSortInv.java:28) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[207月2025 01:05:45.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[207月2025 01:06:04.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4201ms or 84 ticks behind
+[207月2025 01:06:25.417] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[207月2025 01:06:43.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2777ms or 55 ticks behind
+[207月2025 01:07:03.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[207月2025 01:07:12.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 has made the advancement [Alchemical Soup]
+[207月2025 01:07:16.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 has made the advancement [Blazefree Potions]
+[207月2025 01:07:29.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2129ms or 42 ticks behind
+[207月2025 01:07:49.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4544ms or 90 ticks behind
+[207月2025 01:08:07.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[207月2025 01:08:35.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[207月2025 01:08:54.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[207月2025 01:09:12.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3552ms or 71 ticks behind
+[207月2025 01:09:36.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8788ms or 175 ticks behind
+[207月2025 01:10:01.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9795ms or 195 ticks behind
+[207月2025 01:10:24.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8749ms or 174 ticks behind
+[207月2025 01:10:49.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9976ms or 199 ticks behind
+[207月2025 01:11:12.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7973ms or 159 ticks behind
+[207月2025 01:11:33.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6159ms or 123 ticks behind
+[207月2025 01:11:35.767] [Server thread/INFO] [allthemodium/]: Config Value: 0
+[207月2025 01:11:58.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9488ms or 189 ticks behind
+[207月2025 01:12:18.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5382ms or 107 ticks behind
+[207月2025 01:12:36.070] [Server thread/INFO] [allthemodium/]: Config Value: 0
+[207月2025 01:12:37.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4135ms or 82 ticks behind
+[207月2025 01:13:02.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9493ms or 189 ticks behind
+[207月2025 01:13:23.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5784ms or 115 ticks behind
+[207月2025 01:13:39.895] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from shenling1124#8d607915 to DNR#ac646306
+[207月2025 01:13:39.896] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 8d607915-f1ec-4152-91c3-c071bbd76001 (shenling1124#8d607915) to ac646306-69b4-49d1-9322-6a259ff3c523 (DNR#ac646306)
+[207月2025 01:13:39.896] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 8d607915-f1ec-4152-91c3-c071bbd76001 (shenling1124#8d607915) due to claim limits
+[207月2025 01:13:39.896] [Server thread/INFO] [FTB Chunks/]: Team DNR#ac646306 had 0 claimed chunks, now has 0
+[207月2025 01:13:44.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6219ms or 124 ticks behind
+[207月2025 01:14:05.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6313ms or 126 ticks behind
+[207月2025 01:14:27.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7187ms or 143 ticks behind
+[207月2025 01:14:48.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5894ms or 117 ticks behind
+[207月2025 01:15:11.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7914ms or 158 ticks behind
+[207月2025 01:15:33.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7012ms or 140 ticks behind
+[207月2025 01:15:42.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 has reached the goal [Strong or Careful]
+[207月2025 01:15:42.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 was slain by yanboSG
+[207月2025 01:15:42.844] [Server thread/INFO] [tombstone/]: The player shenling1124 has successfully been saved
+[207月2025 01:15:44.020] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[207月2025 01:15:50.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [shenling1124: Teleported shenling1124 to yanboSG]
+[207月2025 01:15:53.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4632ms or 92 ticks behind
+[207月2025 01:16:02.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 has reached the goal [Here They Come]
+[207月2025 01:16:13.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5993ms or 119 ticks behind
+[207月2025 01:16:30.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 has made the advancement [An Extra Seedy Place]
+[207月2025 01:16:37.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8183ms or 163 ticks behind
+[207月2025 01:17:00.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8304ms or 166 ticks behind
+[207月2025 01:17:21.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6066ms or 121 ticks behind
+[207月2025 01:17:28.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [shenling1124: Teleported shenling1124 to puipui940515]
+[207月2025 01:17:59.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[207月2025 01:18:17.231] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 2.777 ms. 4121/4121 recipes are parallelized.
+[207月2025 01:18:29.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[207月2025 01:18:49.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5554ms or 111 ticks behind
+[207月2025 01:19:09.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5161ms or 103 ticks behind
+[207月2025 01:19:29.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5068ms or 101 ticks behind
+[207月2025 01:19:49.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4920ms or 98 ticks behind
+[207月2025 01:20:06.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 has made the advancement [Bonfire Lit]
+[207月2025 01:20:11.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7133ms or 142 ticks behind
+[207月2025 01:20:33.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6844ms or 136 ticks behind
+[207月2025 01:20:54.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6072ms or 121 ticks behind
+[207月2025 01:21:15.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5724ms or 114 ticks behind
+[207月2025 01:21:36.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5938ms or 118 ticks behind
+[207月2025 01:21:58.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7622ms or 152 ticks behind
+[207月2025 01:22:19.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5408ms or 108 ticks behind
+[207月2025 01:22:39.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5117ms or 102 ticks behind
+[207月2025 01:23:00.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6202ms or 124 ticks behind
+[207月2025 01:23:20.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5299ms or 105 ticks behind
+[207月2025 01:23:41.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5968ms or 119 ticks behind
+[207月2025 01:24:04.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7774ms or 155 ticks behind
+[207月2025 01:24:18.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [shenling1124: Teleported shenling1124 to puipui940515]
+[207月2025 01:24:25.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5887ms or 117 ticks behind
+[207月2025 01:24:43.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2635ms or 52 ticks behind
+[207月2025 01:25:01.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3447ms or 68 ticks behind
+[207月2025 01:25:24.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8242ms or 164 ticks behind
+[207月2025 01:25:45.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6014ms or 120 ticks behind
+[207月2025 01:26:06.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5572ms or 111 ticks behind
+[207月2025 01:26:12.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 has made the advancement [Crystallized Souls]
+[207月2025 01:26:26.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5292ms or 105 ticks behind
+[207月2025 01:26:37.086] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[207月2025 01:26:37.086] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[207月2025 01:26:49.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8010ms or 160 ticks behind
+[207月2025 01:27:13.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9253ms or 185 ticks behind
+[207月2025 01:27:37.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8979ms or 179 ticks behind
+[207月2025 01:27:47.038] [Server thread/INFO] [allthemodium/]: Config Value: 0
+[207月2025 01:27:59.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6489ms or 129 ticks behind
+[207月2025 01:28:19.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5849ms or 116 ticks behind
+[207月2025 01:28:38.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3518ms or 70 ticks behind
+[207月2025 01:28:59.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6053ms or 121 ticks behind
+[207月2025 01:29:17.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3179ms or 63 ticks behind
+[207月2025 01:29:35.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2738ms or 54 ticks behind
+[207月2025 01:29:52.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2445ms or 48 ticks behind
+[207月2025 01:29:56.643] [Server thread/INFO] [allthemodium/]: Config Value: 0
+[207月2025 01:30:10.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3108ms or 62 ticks behind
+[207月2025 01:30:34.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9162ms or 183 ticks behind
+[207月2025 01:30:43.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [puipui940515: Teleported puipui940515 to yanboSG]
+[207月2025 01:30:55.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5707ms or 114 ticks behind
+[207月2025 01:31:14.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3584ms or 71 ticks behind
+[207月2025 01:31:32.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shenling1124 lost connection: Disconnected
+[207月2025 01:31:32.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shenling1124 left the game
+[207月2025 01:31:36.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6976ms or 139 ticks behind
+[207月2025 01:37:34.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[207月2025 01:37:51.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[207月2025 01:37:58.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yanboSG has made the advancement [First Age]
+[207月2025 01:38:08.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2215ms or 44 ticks behind
+[207月2025 01:38:26.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3209ms or 64 ticks behind
+[207月2025 01:38:45.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4264ms or 85 ticks behind
+[207月2025 01:39:03.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2642ms or 52 ticks behind
+[207月2025 01:39:21.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2627ms or 52 ticks behind
+[207月2025 01:39:39.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
+[207月2025 01:39:58.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3354ms or 67 ticks behind
+[207月2025 01:40:16.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3250ms or 65 ticks behind
+[207月2025 01:40:35.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4551ms or 91 ticks behind
+[207月2025 01:40:53.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2666ms or 53 ticks behind
+[207月2025 01:41:16.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: puipui940515 has made the advancement [A True Source of Evil]
+[207月2025 01:41:19.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[207月2025 01:41:42.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[207月2025 01:42:00.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3269ms or 65 ticks behind
+[207月2025 01:42:17.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2492ms or 49 ticks behind
+[207月2025 01:42:37.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[207月2025 01:42:54.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2321ms or 46 ticks behind
+[207月2025 01:43:19.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[207月2025 01:43:38.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[207月2025 01:43:56.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
+[207月2025 01:45:31.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[207月2025 01:45:48.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
+[207月2025 01:47:25.094] [Server thread/ERROR] [invtweaks/]: Failed to sort inventory
+java.lang.RuntimeException: Slot 16 not in valid range - [0,16)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at net.minecraftforge.items.ItemStackHandler.insertItem(ItemStackHandler.java:72) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at invtweaks.util.Utils.condensed(Utils.java:186) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.playerSortServer(Sorting.java:154) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.executeSort(Sorting.java:47) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.network.PacketSortInv.lambda$handle$0(PacketSortInv.java:28) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[207月2025 01:47:27.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: puipui940515 lost connection: Disconnected
+[207月2025 01:47:27.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: puipui940515 left the game
+[207月2025 01:49:23.844] [Server thread/INFO] [allthemodium/]: Config Value: 0
+[207月2025 01:51:44.021] [Server thread/INFO] [allthemodium/]: Config Value: 0
+[207月2025 01:53:52.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yanboSG moved too quickly! -99.80000001192093,40.099999999999994,80.95542013433345
+[207月2025 01:54:19.937] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player puipui940515 is e7c96602-110a-49ea-b405-6cfacfa851d5
+[207月2025 01:54:35.491] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: puipui940515[/192.168.0.24:50962] logged in with entity id 70631 at (416.7618917793009, 74.0, 293.8554342421646)
+[207月2025 01:54:35.547] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to puipui940515
+[207月2025 01:54:35.548] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to puipui940515
+[207月2025 01:54:35.549] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to puipui940515
+[207月2025 01:54:35.549] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to puipui940515
+[207月2025 01:54:35.551] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to puipui940515
+[207月2025 01:54:35.555] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to puipui940515
+[207月2025 01:54:35.555] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to puipui940515
+[207月2025 01:54:36.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: puipui940515 joined the game
+[207月2025 01:54:37.027] [Server thread/INFO] [Jade/]: Syncing config to puipui940515 (e7c96602-110a-49ea-b405-6cfacfa851d5)
+[207月2025 01:54:37.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[207月2025 01:55:05.779] [Server thread/ERROR] [invtweaks/]: Failed to sort inventory
+java.lang.RuntimeException: Slot 13 not in valid range - [0,13)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at net.minecraftforge.items.ItemStackHandler.insertItem(ItemStackHandler.java:72) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at invtweaks.util.Utils.condensed(Utils.java:186) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.playerSortServer(Sorting.java:154) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.executeSort(Sorting.java:47) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.network.PacketSortInv.lambda$handle$0(PacketSortInv.java:28) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[207月2025 01:55:07.086] [Server thread/ERROR] [invtweaks/]: Failed to sort inventory
+java.lang.RuntimeException: Slot 13 not in valid range - [0,13)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at net.minecraftforge.items.ItemStackHandler.insertItem(ItemStackHandler.java:72) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at invtweaks.util.Utils.condensed(Utils.java:186) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.playerSortServer(Sorting.java:154) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.executeSort(Sorting.java:47) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.network.PacketSortInv.lambda$handle$0(PacketSortInv.java:28) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[207月2025 01:55:07.575] [Server thread/ERROR] [invtweaks/]: Failed to sort inventory
+java.lang.RuntimeException: Slot 13 not in valid range - [0,13)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at net.minecraftforge.items.ItemStackHandler.insertItem(ItemStackHandler.java:72) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at invtweaks.util.Utils.condensed(Utils.java:186) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.playerSortServer(Sorting.java:154) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.executeSort(Sorting.java:47) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.network.PacketSortInv.lambda$handle$0(PacketSortInv.java:28) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[207月2025 01:55:08.146] [Server thread/ERROR] [invtweaks/]: Failed to sort inventory
+java.lang.RuntimeException: Slot 13 not in valid range - [0,13)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at net.minecraftforge.items.ItemStackHandler.insertItem(ItemStackHandler.java:72) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at invtweaks.util.Utils.condensed(Utils.java:186) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.playerSortServer(Sorting.java:154) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.executeSort(Sorting.java:47) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.network.PacketSortInv.lambda$handle$0(PacketSortInv.java:28) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[207月2025 01:55:08.530] [Server thread/ERROR] [invtweaks/]: Failed to sort inventory
+java.lang.RuntimeException: Slot 13 not in valid range - [0,13)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at net.minecraftforge.items.ItemStackHandler.insertItem(ItemStackHandler.java:72) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at invtweaks.util.Utils.condensed(Utils.java:186) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.playerSortServer(Sorting.java:154) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.executeSort(Sorting.java:47) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.network.PacketSortInv.lambda$handle$0(PacketSortInv.java:28) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[207月2025 01:55:08.703] [Server thread/ERROR] [invtweaks/]: Failed to sort inventory
+java.lang.RuntimeException: Slot 13 not in valid range - [0,13)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at net.minecraftforge.items.ItemStackHandler.insertItem(ItemStackHandler.java:72) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at invtweaks.util.Utils.condensed(Utils.java:186) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.playerSortServer(Sorting.java:154) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.executeSort(Sorting.java:47) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.network.PacketSortInv.lambda$handle$0(PacketSortInv.java:28) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[207月2025 01:59:26.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[207月2025 01:59:44.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2692ms or 53 ticks behind
+[207月2025 02:00:12.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[207月2025 02:00:36.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[207月2025 02:07:41.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yanboSG moved too quickly! 20.698744393595348,0.09999999999999432,-0.3358306990047595
+[207月2025 02:08:06.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yanboSG has made the advancement [Far From Perfect]
+[207月2025 02:09:03.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yanboSG moved too quickly! -46.35263989150644,-8.900000000000006,-111.06048907912395
+[207月2025 02:10:33.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=422, y=86, z=304} BlockPos{x=423, y=85, z=304}
+[207月2025 02:12:22.236] [Server thread/ERROR] [invtweaks/]: Failed to sort inventory
+java.lang.RuntimeException: Slot 14 not in valid range - [0,14)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at net.minecraftforge.items.ItemStackHandler.insertItem(ItemStackHandler.java:72) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at invtweaks.util.Utils.condensed(Utils.java:186) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.playerSortServer(Sorting.java:154) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.executeSort(Sorting.java:47) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.network.PacketSortInv.lambda$handle$0(PacketSortInv.java:28) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[207月2025 02:12:22.630] [Server thread/ERROR] [invtweaks/]: Failed to sort inventory
+java.lang.RuntimeException: Slot 14 not in valid range - [0,14)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at net.minecraftforge.items.ItemStackHandler.insertItem(ItemStackHandler.java:72) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at invtweaks.util.Utils.condensed(Utils.java:186) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.playerSortServer(Sorting.java:154) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.executeSort(Sorting.java:47) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.network.PacketSortInv.lambda$handle$0(PacketSortInv.java:28) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[207月2025 02:12:22.933] [Server thread/ERROR] [invtweaks/]: Failed to sort inventory
+java.lang.RuntimeException: Slot 14 not in valid range - [0,14)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at net.minecraftforge.items.ItemStackHandler.insertItem(ItemStackHandler.java:72) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at invtweaks.util.Utils.condensed(Utils.java:186) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.playerSortServer(Sorting.java:154) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.executeSort(Sorting.java:47) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.network.PacketSortInv.lambda$handle$0(PacketSortInv.java:28) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[207月2025 02:12:23.081] [Server thread/ERROR] [invtweaks/]: Failed to sort inventory
+java.lang.RuntimeException: Slot 14 not in valid range - [0,14)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at net.minecraftforge.items.ItemStackHandler.insertItem(ItemStackHandler.java:72) ~[forge-1.20.1-47.4.0-universal.jar%23931!/:?]
+	at invtweaks.util.Utils.condensed(Utils.java:186) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.playerSortServer(Sorting.java:154) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.util.Sorting.executeSort(Sorting.java:47) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at invtweaks.network.PacketSortInv.lambda$handle$0(PacketSortInv.java:28) ~[invtweaks-1.20.1-1.2.0.jar%23711!/:1.2.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23926!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[207月2025 02:12:24.027] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yanboSG lost connection: Disconnected
+[207月2025 02:12:24.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yanboSG left the game
+[207月2025 02:12:37.724] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player yanboSG is 19c31d8f-a1eb-495d-b23d-4c07d7ce96a5
+[207月2025 02:12:53.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yanboSG[/26.242.111.51:64868] logged in with entity id 75361 at (308.09888926487685, 114.0, 357.9837007373196)
+[207月2025 02:12:53.207] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to yanboSG
+[207月2025 02:12:53.207] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to yanboSG
+[207月2025 02:12:53.208] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to yanboSG
+[207月2025 02:12:53.209] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to yanboSG
+[207月2025 02:12:53.210] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to yanboSG
+[207月2025 02:12:53.213] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to yanboSG
+[207月2025 02:12:53.214] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to yanboSG
+[207月2025 02:12:53.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yanboSG joined the game
+[207月2025 02:12:54.230] [Server thread/INFO] [Jade/]: Syncing config to yanboSG (19c31d8f-a1eb-495d-b23d-4c07d7ce96a5)
+[207月2025 02:15:46.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[207月2025 02:22:00.335] [Server thread/INFO] [allthemodium/]: Config Value: 0
+[207月2025 02:31:53.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[207月2025 02:35:48.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[207月2025 02:36:05.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2269ms or 45 ticks behind
+[207月2025 02:36:42.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[207月2025 02:38:01.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yanboSG lost connection: Disconnected
+[207月2025 02:38:01.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yanboSG left the game
+[207月2025 02:40:36.523] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: puipui940515 lost connection: Disconnected
+[207月2025 02:40:36.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: puipui940515 left the game
+[207月2025 03:05:25.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[207月2025 03:05:25.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[207月2025 03:05:25.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[207月2025 03:05:25.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[207月2025 03:05:25.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[207月2025 03:05:25.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
+[207月2025 03:05:26.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[207月2025 03:05:26.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[207月2025 03:05:26.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[207月2025 03:05:26.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[207月2025 03:05:26.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/sgjourney:lantea
+[207月2025 03:05:26.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/sgjourney:cavum_tenebrae
+[207月2025 03:05:26.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/sgjourney:chulak
+[207月2025 03:05:26.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[207月2025 03:05:26.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[207月2025 03:05:26.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[207月2025 03:05:26.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/sgjourney:abydos
+[207月2025 03:05:26.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_beyond
+[207月2025 03:05:26.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[207月2025 03:05:26.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[207月2025 03:05:26.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[207月2025 03:05:26.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[207月2025 03:05:26.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[207月2025 03:05:26.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloodmagic:dungeon
+[207月2025 03:05:26.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[207月2025 03:05:26.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
+[207月2025 03:05:26.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[207月2025 03:05:26.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[207月2025 03:05:26.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[207月2025 03:05:26.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[207月2025 03:05:26.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[207月2025 03:05:26.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mythicbotany:alfheim
+[207月2025 03:05:26.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[207月2025 03:05:26.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[207月2025 03:05:26.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/voidscape:void
+[207月2025 03:05:26.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[207月2025 03:05:26.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[207月2025 03:05:26.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[207月2025 03:05:26.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[207月2025 03:05:26.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[207月2025 03:05:26.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[207月2025 03:05:26.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[207月2025 03:05:26.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[207月2025 03:05:26.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lantea): All chunks are saved
+[207月2025 03:05:26.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cavum_tenebrae): All chunks are saved
+[207月2025 03:05:26.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (chulak): All chunks are saved
+[207月2025 03:05:26.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[207月2025 03:05:26.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[207月2025 03:05:26.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[207月2025 03:05:26.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (abydos): All chunks are saved
+[207月2025 03:05:26.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[207月2025 03:05:26.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[207月2025 03:05:26.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[207月2025 03:05:26.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[207月2025 03:05:26.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[207月2025 03:05:26.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[207月2025 03:05:26.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[207月2025 03:05:26.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[207月2025 03:05:26.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[207月2025 03:05:26.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[207月2025 03:05:26.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[207月2025 03:05:26.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[207月2025 03:05:26.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[207月2025 03:05:26.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[207月2025 03:05:26.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alfheim): All chunks are saved
+[207月2025 03:05:26.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[207月2025 03:05:26.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[207月2025 03:05:26.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (void): All chunks are saved
+[207月2025 03:05:26.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[207月2025 03:05:26.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[207月2025 03:05:26.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[207月2025 03:05:27.264] [Server thread/INFO] [shetiphian.endertanks.EnderTanks/]: Unloading EnderTank Data
+[207月2025 03:05:27.265] [Server thread/INFO] [shetiphian.endertanks.EnderTanks/]: Finished Unloading EnderTank Data
+[207月2025 03:05:27.283] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Unloading EnderChest Data
+[207月2025 03:05:27.283] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Finished Unloading EnderChest Data
+[207月2025 03:05:27.850] [Server thread/INFO] [FluxNetworks/Energy]: Energy blacklist loaded: 1 block entries, 0 item entries
+[207月2025 03:05:28.069] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

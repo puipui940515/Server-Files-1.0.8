@@ -1,0 +1,57 @@
+[22:21:00] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[22:21:00] [INIT] Loaded plugins:
+[22:21:00] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[22:21:00] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[22:21:00] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[22:21:00] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[22:21:00] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[22:21:00] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[22:21:00] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[22:21:00] [INIT] - com.almostreliable.morejs.Plugin
+[22:21:00] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[22:21:00] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[22:21:03] [INFO] read_json_from_mod.js#5: Loaded Java class 'net.minecraftforge.resource.ResourcePackLoader'
+[22:21:03] [INFO] read_json_from_mod.js#8: Loaded Java class 'java.util.stream.Collectors'
+[22:21:03] [INFO] read_json_from_mod.js#9: Loaded Java class 'net.minecraft.server.packs.repository.ServerPacksSource'
+[22:21:03] [INFO] read_json_from_mod.js#10: Loaded Java class 'net.minecraft.server.packs.resources.FallbackResourceManager'
+[22:21:03] [INFO] Loaded script startup_scripts:read_json_from_mod.js in 0.134 s
+[22:21:03] [INFO] Loaded script startup_scripts:AE2/Universal_Press.js in 0.007 s
+[22:21:03] [INFO] Loaded script startup_scripts:custom_additions.js in 0.004 s
+[22:21:03] [INFO] farmingForBlockheads.js#11: Loaded Java class 'net.blay09.mods.farmingforblockheads.api.FarmingForBlockheadsAPI'
+[22:21:03] [INFO] Loaded script startup_scripts:farmingForBlockheads.js in 0.007 s
+[22:21:03] [INFO] Loaded script startup_scripts:gtceu/alcr.js in 0.001 s
+[22:21:03] [INFO] Loaded script startup_scripts:gtceu/apiary.js in 0.006 s
+[22:21:03] [INFO] gtceu/greenhouse.js#4: Loaded Java class 'dev.latvian.mods.kubejs.util.Tags'
+[22:21:03] [INFO] Loaded script startup_scripts:gtceu/greenhouse.js in 0.005 s
+[22:21:03] [INFO] gtceu/gregstar_placeholders.js#4: Loaded Java class 'com.gregtechceu.gtceu.common.machine.multiblock.part.RotorHolderPartMachine'
+[22:21:03] [INFO] gtceu/gregstar_placeholders.js#5: Loaded Java class 'com.gregtechceu.gtceu.client.renderer.machine.RotorHolderMachineRenderer'
+[22:21:03] [INFO] Loaded script startup_scripts:gtceu/gregstar_placeholders.js in 0.067 s
+[22:21:03] [INFO] gtceu/material_modification.js#4: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.FluidProperty'
+[22:21:03] [INFO] gtceu/material_modification.js#5: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.OreProperty'
+[22:21:03] [INFO] gtceu/material_modification.js#6: Loaded Java class 'com.gregtechceu.gtceu.api.fluids.FluidBuilder'
+[22:21:03] [INFO] gtceu/material_modification.js#7: Loaded Java class 'com.gregtechceu.gtceu.api.fluids.store.FluidStorageKeys'
+[22:21:03] [INFO] Loaded script startup_scripts:gtceu/material_modification.js in 0.012 s
+[22:21:03] [INFO] gtceu/mega_fusion_reactor.js#4: Loaded Java class 'com.gregtechceu.gtceu.common.machine.multiblock.electric.FusionReactorMachine'
+[22:21:03] [INFO] Loaded script startup_scripts:gtceu/mega_fusion_reactor.js in 0.022 s
+[22:21:03] [INFO] gtceu/micro_universe_orb.js#4: Loaded Java class 'com.gregtechceu.gtceu.common.machine.multiblock.part.EnergyHatchPartMachine'
+[22:21:03] [INFO] gtceu/micro_universe_orb.js#5: Loaded Java class 'com.gregtechceu.gtceu.api.capability.recipe.IO'
+[22:21:03] [INFO] Loaded script startup_scripts:gtceu/micro_universe_orb.js in 0.018 s
+[22:21:03] [INFO] Loaded script startup_scripts:gtceu/miner.js in 0.001 s
+[22:21:03] [INFO] Loaded script startup_scripts:gtceu/neocube.js in 0.001 s
+[22:21:03] [INFO] Loaded script startup_scripts:gtceu/neural_node.js in 0.001 s
+[22:21:03] [INFO] gtceu/ore_processing_plant.js#4: Loaded Java class 'net.minecraft.sounds.SoundEvents'
+[22:21:03] [INFO] gtceu/ore_processing_plant.js#5: Loaded Java class 'net.minecraft.sounds.SoundSource'
+[22:21:03] [INFO] gtceu/ore_processing_plant.js#6: Loaded Java class 'com.gregtechceu.gtceu.api.sound.ExistingSoundEntry'
+[22:21:03] [INFO] Loaded script startup_scripts:gtceu/ore_processing_plant.js in 0.036 s
+[22:21:03] [INFO] Loaded script startup_scripts:gtceu/starforge.js in 0.004 s
+[22:21:03] [INFO] mekanismStartup.js#18: Loaded Java class 'mekanism.api.chemical.slurry.Slurry'
+[22:21:03] [INFO] mekanismStartup.js#19: Loaded Java class 'mekanism.api.chemical.slurry.SlurryBuilder'
+[22:21:03] [INFO] mekanismStartup.js#20: Loaded Java class 'mekanism.api.chemical.gas.Gas'
+[22:21:03] [INFO] mekanismStartup.js#21: Loaded Java class 'mekanism.api.chemical.gas.GasBuilder'
+[22:21:03] [INFO] Loaded script startup_scripts:mekanismStartup.js in 0.008 s
+[22:21:03] [INFO] Loaded script startup_scripts:mining_dim_layers.js in 0.001 s
+[22:21:03] [INFO] mysticalagriculture.js#4: Loaded Java class 'com.blakebr0.mysticalagriculture.api.MysticalAgricultureAPI'
+[22:21:03] [INFO] Loaded script startup_scripts:mysticalagriculture.js in 0.003 s
+[22:21:03] [INFO] Loaded script startup_scripts:settings.js in 0.006 s
+[22:21:03] [INFO] Loaded script startup_scripts:worldgen.js in 0.0 s
+[22:21:03] [INFO] Loaded 21/21 KubeJS startup scripts in 2.162 s with 0 errors and 0 warnings
